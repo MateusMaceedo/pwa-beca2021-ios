@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/48991577?s=200&v=4" width="60" height="60">
+<img src="https://www.everis.com/sites/all/themes/everis/logo.png" width="80" height="80">
 
 # Redesenho do PWA Beca IOS - Everis Brasil
 
