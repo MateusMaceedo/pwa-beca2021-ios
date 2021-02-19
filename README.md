@@ -1,4 +1,6 @@
-# PWA Beca IOS - Everis Brasil
+<img src="https://avatars.githubusercontent.com/u/48991577?s=200&v=4" width="60" height="60">
+
+# Redesenho do PWA Beca IOS - Everis Brasil
 
 Repository created for a dynamics performed in Everis's internal training program named Beca.
 
