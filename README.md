@@ -7,6 +7,7 @@
 <img alt="GitHub" src="https://camo.githubusercontent.com/e5773914459d8bb4fb1d43300bd91b639dbd90f4498843eba309adafe0989cd4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c756b656d6f72616c65732f62616e636f696e7465722e737667" data-canonical-src="https://img.shields.io/github/license/lukemorales/bancointer.svg" style="max-width:100%;">
 <div align="center">
 
+<div>
 # Redesenho do PWA Beca IOS - Everis Brasil
 
 >Proposta de melhoria: <Aprimorar o uso do PWA, com automação e novos conceitos de tecnologias atuais, podendo ser usado em multi ambiente de produção, tendo em vista o principal motivo do código fonte, com esteira de produção, homologação e integração com o desenvolvimento. Procedimento feito afim de estudar a estrutura, e estruturar novas formas de fazer, adicionando novas features, skils e implementação do proprio>
@@ -50,3 +51,4 @@ Run `ng build --prod`. In `dist/pwa-beca-ios` run `http-server -o`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+</div>
