@@ -53,5 +53,5 @@ Run `ng build --prod`. In `dist/pwa-beca-ios` run `http-server -o`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
->Made with ♥ by <Mateus Macedo :wave: [Get in touch!](mateusouza2014@live.com)>
+>Made with ♥ by <Mateus Macedo> :wave: [Get in touch!](mateusouza2014@live.com)
 
